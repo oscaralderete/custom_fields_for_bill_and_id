@@ -1,0 +1,10 @@
+/*
+@Plugin Name: WooCommerce Custom Fields On Checkout
+@Author: Oscar Alderete - https://oscaralderete.com/
+*/
+.OA_WC_hidden{display:none}
+.OA_WC_div{position:absolute;width:120px;height:200px;background-color:#fff;top:100px;left:0;z-index:100;overflow:auto;box-shadow:0 0 1em #555}
+.OA_WC_div > ul{margin:0;padding:0;list-style-type:none}
+.OA_WC_div > ul > li{margin:0;padding:0;border-top:solid 1px #ccc}
+.OA_WC_div > ul > li:first-child{border-top:none}
+.OA_WC_div > ul > li a{display:block;padding:.5em;cursor:pointer;color:#000}
